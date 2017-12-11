@@ -220,3 +220,36 @@ header {
 	color: #00fcff;
 	padding: 5px 55px;
 }
+
+.item_card {
+	margin-top: 20px;
+}
+
+.item_header {
+	font-size: 50px;
+	padding-top: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-weight: 700;
+	text-align: right;
+	padding-bottom: 0px;
+}
+
+.item_descriptor {
+	text-align: right;
+	line-height: 30px;
+	margin-top: 5px;
+}
+
+.item_detalisation {
+	text-align: right;
+	list-style-type: none;
+	font-style: italic;
+}
+
+.item_more_button {
+	float: right;
+	border: 2px solid black;
+	padding: 10px 50px;
+	margin-top: 20px;
+}
