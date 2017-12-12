@@ -221,6 +221,11 @@ header {
 	padding: 5px 55px;
 }
 
+.max_section {
+	background-color: #f0f9ff;
+	margin-top: 50px
+}
+
 .item_card {
 	margin-top: 20px;
 }
