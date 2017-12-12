@@ -25,10 +25,6 @@
 
 	<script src="libs/modernizr/modernizr.js"></script>
 	
-	<script type="text/javascript">
-	document.getElementsByClassName("wcm_group_info_using_vk").innerHTML = "Сообщение отправится администратору группы ВКонтакте";
-	</script>
-	
 	<script type="text/javascript" src="//vk.com/js/api/openapi.js?150"></script>
 
 	
@@ -129,6 +125,7 @@
 <div id="vk_community_messages"></div>
 <script type="text/javascript">
 VK.Widgets.CommunityMessages("vk_community_messages", 158357844, {expandTimeout: "30000",disableExpandChatSound: "1",tooltipButtonText: "Есть вопрос?"});
+	document.getElementsByClassName("wcm_group_info_using_vk").innerHTML = "Сообщение отправится администратору группы ВКонтакте";
 </script>
 
 
