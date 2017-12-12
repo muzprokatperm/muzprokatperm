@@ -224,6 +224,7 @@ header {
 .max_section {
 	background-color: #ecf5fc;
 	margin-top: 50px
+	padding: 30px 0px;
 }
 
 .item_card {
