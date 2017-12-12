@@ -215,14 +215,14 @@ header {
 	text-align: center;
 }
 
-.mt-35 {
-	margin-top: 35px;
+.mt-80 {
+	margin-top: 80px;
 }
 
 .cat_button {
 	background-color: #313131;
-	color: #00fcff;
-	padding: 5px 55px;
+	padding: 5px;
+	margin: 15px 25px;
 }
 
 .max_section {
