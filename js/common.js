@@ -12,6 +12,8 @@ $(function() {
 		});
 	};
 
+	document.getElementByClass('wcm_group_info_using_vk').style.display='none'
+	
 	//E-mail Ajax Send
 	//Documentation & Example: https://github.com/agragregra/uniMail
 	$("form").submit(function() { //Change
